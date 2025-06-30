@@ -111,8 +111,8 @@ I accidentally selected my **worst checkpoint** for the final submission—total
 
 ### Proof of my blunder:
 
-- [Leaderboard screenshot before the fall](https://i.ibb.co/p6tszVqX/Screenshot-2025-07-01-0310406.png)  
-- [Leaderboard screenshot after the fall](https://i.ibb.co/nsC40RwY/Screenshot-2025-07-01-030910.png)
+![image](https://github.com/user-attachments/assets/34f438a5-9c4c-4aa2-a899-96d2cb5590d9)
+
 
 If you're reviewing this repo, don't worry—the **better model is safely attached here**, clearly marked and ready for your inspection or reproduction. Please ignore the catastrophe I submitted. 😅
 
