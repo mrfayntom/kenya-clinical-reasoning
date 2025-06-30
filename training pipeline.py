@@ -8,7 +8,7 @@ from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 import evaluate, random
 
 csv="/content/drive/MyDrive/Kenya Clinical Reasoning Challenge/clean_train.csv"
-sv_path="/content/drive/MyDrive/Kenya Clinical Reasoning Challenge/flan_small_4bit_lora_only"
+sv_path="/content/drive/MyDrive/Kenya Clinical Reasoning Challenge/flan_small"
 
 bat_size=4
 lean_rate=0.0003219422218
