@@ -113,6 +113,9 @@ I accidentally selected my **worst checkpoint** for the final submission—total
 
 ![image](https://github.com/user-attachments/assets/34f438a5-9c4c-4aa2-a899-96d2cb5590d9)
 
+![image](https://github.com/user-attachments/assets/65522e0e-f2de-4a85-9403-06e35f5b8641)
+
+
 
 If you're reviewing this repo, don't worry—the **better model is safely attached here**, clearly marked and ready for your inspection or reproduction. Please ignore the catastrophe I submitted. 😅
 
