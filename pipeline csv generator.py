@@ -8,7 +8,7 @@ dev = "cuda" if torch.cuda.is_available() else "cpu"
 
 test_path = "/content/drive/My Drive/Kenya Clinical Reasoning Challenge/Data-set/test.csv"
 out_path = "/content/drive/My Drive/Kenya Clinical Reasoning Challenge/submission_flan_rerank2.csv"
-mod_path = "/content/drive/My Drive/Kenya Clinical Reasoning Challenge/final_finetuned_flan_small/checkpoint-480"
+mod_path = "/content/drive/My Drive/Kenya Clinical Reasoning Challenge/flan_small/checkpoint-480"
 
 config = AutoConfig.from_pretrained(mod_path)
 quant_config = BitsAndBytesConfig(
